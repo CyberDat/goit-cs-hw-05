@@ -14,7 +14,7 @@
 **Пример запуска:**
 
 ```bash
-python task1.py -s path/to/source -o path/to/output
+python Task_01.py -s path/to/source -o path/to/output
 ```
 
 ---
@@ -26,6 +26,6 @@ python task1.py -s path/to/source -o path/to/output
 **Пример запуска:**
 
 ```bash
-python task2.py
+python Task_02.py
 ```
 
